@@ -5,7 +5,18 @@
     <link>https://parzival2.github.io/manabu.github.io/posts/</link>
     <description>Recent content in Posts on Manabu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QtCreator with ROS</title>
+      <link>https://parzival2.github.io/manabu.github.io/posts/qtcreator-ros/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu.github.io/posts/qtcreator-ros/</guid>
+      <description>I have tried many IDEs and found that QtCreator is the one that I like. So I wanted to setup QtCreator for ROS development.
+Prerequisites Installing ROS I assume that you have already installed ROS on your operating system. If not you can follow these instructions
+Installing QtCreator An open-sourced version of QtCreator can be downloaded from here. From here you can only download QtCreator IDE without downloading the Qt framework.</description>
+    </item>
+    
     <item>
       <title>Math Typesetting</title>
       <link>https://parzival2.github.io/manabu.github.io/posts/mathtypesetting/</link>
