@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Adding images in Hugo</title>
+      <link>https://parzival2.github.io/manabu.github.io/posts/add-images-hugo/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu.github.io/posts/add-images-hugo/</guid>
+      <description>Adding images in Hugo I had a lot of trouble adding images in Hugo and searched a lot on the internet and finally solved the problem. The thanks go to the comment under an issue.
+The secret is to store the images in the static folder and also follow the correct directory structure. If we take this page as an example, the images are added into static\posts\qtcreator-ros\ folder to mimic the search path.</description>
+    </item>
+    
+    <item>
       <title>QtCreator with ROS</title>
       <link>https://parzival2.github.io/manabu.github.io/posts/qtcreator-ros/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
@@ -24,15 +34,6 @@ Installing QtCreator An open-sourced version of QtCreator can be downloaded from
       
       <guid>https://parzival2.github.io/manabu.github.io/posts/mathtypesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://parzival2.github.io/manabu.github.io/posts/rich-content/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://parzival2.github.io/manabu.github.io/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
