@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://parzival2.github.io/manabu/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/posts/mathtypesetting/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/posts/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/privacy/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/posts/rich-content/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/shortcodes/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/archives/</loc>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/categories/</loc>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/search/</loc>
+  </url>
+</urlset>
