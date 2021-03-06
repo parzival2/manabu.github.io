@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manabu</title>
-    <link>https://parzival2.github.io/manabu.github.io/</link>
+    <link>https://parzival2.github.io/manabu/</link>
     <description>Recent content on Manabu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adding images in Hugo</title>
-      <link>https://parzival2.github.io/manabu.github.io/posts/add-images-hugo/</link>
+      <link>https://parzival2.github.io/manabu/posts/add-images-hugo/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu.github.io/posts/add-images-hugo/</guid>
+      <guid>https://parzival2.github.io/manabu/posts/add-images-hugo/</guid>
       <description>Adding images in Hugo I had a lot of trouble adding images in Hugo and searched a lot on the internet and finally solved the problem. The thanks go to the comment under an issue.
 The secret is to store the images in the static folder and also follow the correct directory structure. If we take this page as an example, the images are added into static\posts\qtcreator-ros\ folder to mimic the search path.</description>
     </item>
     
     <item>
       <title>QtCreator with ROS</title>
-      <link>https://parzival2.github.io/manabu.github.io/posts/qtcreator-ros/</link>
+      <link>https://parzival2.github.io/manabu/posts/qtcreator-ros/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu.github.io/posts/qtcreator-ros/</guid>
+      <guid>https://parzival2.github.io/manabu/posts/qtcreator-ros/</guid>
       <description>I have tried many IDEs and found that QtCreator is the one that I like. So I wanted to setup QtCreator for ROS development.
 Prerequisites Installing ROS I assume that you have already installed ROS on your operating system. If not you can follow these instructions
 Installing QtCreator An open-sourced version of QtCreator can be downloaded from here. From here you can only download QtCreator IDE without downloading the Qt framework.</description>
@@ -29,28 +29,28 @@ Installing QtCreator An open-sourced version of QtCreator can be downloaded from
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://parzival2.github.io/manabu.github.io/posts/mathtypesetting/</link>
+      <link>https://parzival2.github.io/manabu/posts/mathtypesetting/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu.github.io/posts/mathtypesetting/</guid>
+      <guid>https://parzival2.github.io/manabu/posts/mathtypesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://parzival2.github.io/manabu.github.io/archives/</link>
+      <link>https://parzival2.github.io/manabu/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu.github.io/archives/</guid>
+      <guid>https://parzival2.github.io/manabu/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://parzival2.github.io/manabu.github.io/search/</link>
+      <link>https://parzival2.github.io/manabu/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu.github.io/search/</guid>
+      <guid>https://parzival2.github.io/manabu/search/</guid>
       <description></description>
     </item>
     
