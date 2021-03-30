@@ -5,7 +5,17 @@
     <link>https://parzival2.github.io/manabu/posts/</link>
     <description>Recent content in Posts on Manabu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharing internet connection with Beaglebone</title>
+      <link>https://parzival2.github.io/manabu/posts/beaglebone-internet/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu/posts/beaglebone-internet/</guid>
+      <description>Sharing internet connection with Beaglebone The beaglebone can be connected over serial and the fun part is that the usb post emulates the lan connection. So we don&amp;rsquo;t need to have another lan connection to ssh into the board.
+The present versions the debian seems to recognize the SD card and boot from the SD Card directly. The instructions seem to suggest that we should hold the USERBUTTON while providing power in-order to boot from SD Card.</description>
+    </item>
+    
     <item>
       <title>Flashing bluepill using ST-Link board</title>
       <link>https://parzival2.github.io/manabu/posts/flashing-bluepill.md/</link>
