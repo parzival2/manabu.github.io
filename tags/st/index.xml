@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>st on Manabu</title>
-    <link>https://parzival2.github.io/manabu/tags/st/</link>
-    <description>Recent content in st on Manabu</description>
+    <title>st on blog</title>
+    <link>https://parzival2.github.io/blog/tags/st/</link>
+    <description>Recent content in st on blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/tags/st/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/blog/tags/st/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flashing bluepill using ST-Link board</title>
-      <link>https://parzival2.github.io/manabu/posts/flashing-bluepill.md/</link>
+      <link>https://parzival2.github.io/blog/posts/flashing-bluepill.md/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/flashing-bluepill.md/</guid>
+      <guid>https://parzival2.github.io/blog/posts/flashing-bluepill.md/</guid>
       <description>I want to get into programming Blue-pill using libopencm3 and FreeRTOS. To get started I wanted to compile few test programs to get the feel for it. I needed a flasher as the small board doesn&amp;rsquo;t have an inbuilt programmer like STM32F4Discovery
 ST-Link I have ordered a cheap ST-Link that I have found online specifically this. The pinout for this one is
   Bluepill The bluepill connections are as follows from the top right    Pin     GND   CLK   SDIO   3V3   So you just have to connect them according to the name of the pin.</description>

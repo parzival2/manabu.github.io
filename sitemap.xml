@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parzival2.github.io/manabu/tags/beaglebone/</loc>
+    <loc>https://parzival2.github.io/blog/tags/beaglebone/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</loc>
+    <loc>https://parzival2.github.io/blog/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/cmake/</loc>
+    <loc>https://parzival2.github.io/blog/tags/c&#43;&#43;/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/beaglebone-cross-compile/</loc>
+    <loc>https://parzival2.github.io/blog/tags/cmake/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/cross-compile/</loc>
+    <loc>https://parzival2.github.io/blog/posts/beaglebone-cross-compile/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/libgpiod/</loc>
+    <loc>https://parzival2.github.io/blog/tags/cross-compile/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/</loc>
+    <loc>https://parzival2.github.io/blog/tags/libgpiod/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/</loc>
+    <loc>https://parzival2.github.io/blog/posts/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/</loc>
+    <loc>https://parzival2.github.io/blog/tags/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/beaglebone-internet/</loc>
+    <loc>https://parzival2.github.io/blog/posts/beaglebone-internet/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/bluepill/</loc>
+    <loc>https://parzival2.github.io/blog/tags/bluepill/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/flashing-bluepill.md/</loc>
+    <loc>https://parzival2.github.io/blog/posts/flashing-bluepill.md/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/st/</loc>
+    <loc>https://parzival2.github.io/blog/tags/st/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/lan/</loc>
+    <loc>https://parzival2.github.io/blog/tags/lan/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/ros/</loc>
+    <loc>https://parzival2.github.io/blog/tags/ros/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/ros-multiple-machines/</loc>
+    <loc>https://parzival2.github.io/blog/posts/ros-multiple-machines/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/add-images-hugo/</loc>
+    <loc>https://parzival2.github.io/blog/posts/add-images-hugo/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/qtcreator/</loc>
+    <loc>https://parzival2.github.io/blog/tags/qtcreator/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/qtcreator-ros/</loc>
+    <loc>https://parzival2.github.io/blog/posts/qtcreator-ros/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/robotics/</loc>
+    <loc>https://parzival2.github.io/blog/tags/robotics/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/static/</loc>
+    <loc>https://parzival2.github.io/blog/tags/static/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/webpage/</loc>
+    <loc>https://parzival2.github.io/blog/tags/webpage/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/mathtypesetting/</loc>
+    <loc>https://parzival2.github.io/blog/posts/mathtypesetting/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/archives/</loc>
+    <loc>https://parzival2.github.io/blog/archives/</loc>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/categories/</loc>
+    <loc>https://parzival2.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://parzival2.github.io/manabu/search/</loc>
+    <loc>https://parzival2.github.io/blog/search/</loc>
   </url>
 </urlset>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manabu</title>
-    <link>https://parzival2.github.io/manabu/</link>
-    <description>Recent content on Manabu</description>
+    <title>blog</title>
+    <link>https://parzival2.github.io/blog/</link>
+    <description>Recent content on blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cross compile C&#43;&#43; project for beaglebone</title>
-      <link>https://parzival2.github.io/manabu/posts/beaglebone-cross-compile/</link>
+      <link>https://parzival2.github.io/blog/posts/beaglebone-cross-compile/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/beaglebone-cross-compile/</guid>
+      <guid>https://parzival2.github.io/blog/posts/beaglebone-cross-compile/</guid>
       <description>Cross compiling a C++ project for Beaglebone I am thinking of getting into Embedded Linux, so I have ordered a Beaglebone. I don&amp;rsquo;t want to use Python to program it as I want to do some real-time processing with it. For that, I have to figure out how to compile C++ programs on the host PC instead of doing it on the Beaglebone as it has very little ram.
 Initially, I wanted to do the cross-compilation using QEMU but quickly gave up the idea as there is no out-of-the-box QEMU system for Beaglebone.</description>
     </item>
     
     <item>
       <title>Sharing internet connection with Beaglebone</title>
-      <link>https://parzival2.github.io/manabu/posts/beaglebone-internet/</link>
+      <link>https://parzival2.github.io/blog/posts/beaglebone-internet/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/beaglebone-internet/</guid>
+      <guid>https://parzival2.github.io/blog/posts/beaglebone-internet/</guid>
       <description>Sharing internet connection with Beaglebone The beaglebone can be connected over serial and the fun part is that the usb post emulates the lan connection. So we don&amp;rsquo;t need to have another lan connection to ssh into the board.
 The present versions the debian seems to recognize the SD card and boot from the SD Card directly. The instructions seem to suggest that we should hold the USERBUTTON while providing power in-order to boot from SD Card.</description>
     </item>
     
     <item>
       <title>Flashing bluepill using ST-Link board</title>
-      <link>https://parzival2.github.io/manabu/posts/flashing-bluepill.md/</link>
+      <link>https://parzival2.github.io/blog/posts/flashing-bluepill.md/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/flashing-bluepill.md/</guid>
+      <guid>https://parzival2.github.io/blog/posts/flashing-bluepill.md/</guid>
       <description>I want to get into programming Blue-pill using libopencm3 and FreeRTOS. To get started I wanted to compile few test programs to get the feel for it. I needed a flasher as the small board doesn&amp;rsquo;t have an inbuilt programmer like STM32F4Discovery
 ST-Link I have ordered a cheap ST-Link that I have found online specifically this. The pinout for this one is
   Bluepill The bluepill connections are as follows from the top right    Pin     GND   CLK   SDIO   3V3   So you just have to connect them according to the name of the pin.</description>
@@ -39,29 +39,29 @@ ST-Link I have ordered a cheap ST-Link that I have found online specifically thi
     
     <item>
       <title>ROS connection between multiple machines on LAN</title>
-      <link>https://parzival2.github.io/manabu/posts/ros-multiple-machines/</link>
+      <link>https://parzival2.github.io/blog/posts/ros-multiple-machines/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/ros-multiple-machines/</guid>
+      <guid>https://parzival2.github.io/blog/posts/ros-multiple-machines/</guid>
       <description>I have an orangepi zero that I want to connect to a ROS instance running on my desktop to play around with manual control on PX4. I have followed some instructions here but they appear not to work for me. The orangepi always says that there is no roscore running. I searched and searched and I came across this page that seems to provide correct instructions. I did it like in the below-mentioned procedure and the orange pi seems to recognize the ROS instance running on my desktop.</description>
     </item>
     
     <item>
       <title>Adding images in Hugo</title>
-      <link>https://parzival2.github.io/manabu/posts/add-images-hugo/</link>
+      <link>https://parzival2.github.io/blog/posts/add-images-hugo/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/add-images-hugo/</guid>
+      <guid>https://parzival2.github.io/blog/posts/add-images-hugo/</guid>
       <description>Adding images in Hugo I had a lot of trouble adding images in Hugo and searched a lot on the internet and finally solved the problem. The thanks go to the comment under an issue.
 The secret is to store the images in the static folder and also follow the correct directory structure. If we take this page as an example, the images are added into static\posts\qtcreator-ros\ folder to mimic the search path.</description>
     </item>
     
     <item>
       <title>QtCreator with ROS</title>
-      <link>https://parzival2.github.io/manabu/posts/qtcreator-ros/</link>
+      <link>https://parzival2.github.io/blog/posts/qtcreator-ros/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/qtcreator-ros/</guid>
+      <guid>https://parzival2.github.io/blog/posts/qtcreator-ros/</guid>
       <description>I have tried many IDEs and found that QtCreator is the one that I like. So I wanted to setup QtCreator for ROS development.
 Prerequisites Installing ROS I assume that you have already installed ROS on your operating system. If not you can follow these instructions
 Installing QtCreator An open-sourced version of QtCreator can be downloaded from here. From here you can only download QtCreator IDE without downloading the Qt framework.</description>
@@ -69,28 +69,28 @@ Installing QtCreator An open-sourced version of QtCreator can be downloaded from
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://parzival2.github.io/manabu/posts/mathtypesetting/</link>
+      <link>https://parzival2.github.io/blog/posts/mathtypesetting/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/posts/mathtypesetting/</guid>
+      <guid>https://parzival2.github.io/blog/posts/mathtypesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://parzival2.github.io/manabu/archives/</link>
+      <link>https://parzival2.github.io/blog/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/archives/</guid>
+      <guid>https://parzival2.github.io/blog/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://parzival2.github.io/manabu/search/</link>
+      <link>https://parzival2.github.io/blog/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://parzival2.github.io/manabu/search/</guid>
+      <guid>https://parzival2.github.io/blog/search/</guid>
       <description></description>
     </item>
     
