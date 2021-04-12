@@ -5,13 +5,49 @@
     <link>https://parzival2.github.io/manabu/tags/</link>
     <description>Recent content in Tags on Manabu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beaglebone</title>
       <link>https://parzival2.github.io/manabu/tags/beaglebone/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://parzival2.github.io/manabu/tags/beaglebone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cmake</title>
+      <link>https://parzival2.github.io/manabu/tags/cmake/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu/tags/cmake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-compile</title>
+      <link>https://parzival2.github.io/manabu/tags/cross-compile/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu/tags/cross-compile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libgpiod</title>
+      <link>https://parzival2.github.io/manabu/tags/libgpiod/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu/tags/libgpiod/</guid>
       <description></description>
     </item>
     
@@ -48,15 +84,6 @@
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://parzival2.github.io/manabu/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c&#43;&#43;</title>
-      <link>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     

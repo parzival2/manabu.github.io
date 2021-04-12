@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libgpiod on Manabu</title>
+    <link>https://parzival2.github.io/manabu/tags/libgpiod/</link>
+    <description>Recent content in libgpiod on Manabu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/manabu/tags/libgpiod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross compile C&#43;&#43; project for beaglebone</title>
+      <link>https://parzival2.github.io/manabu/posts/beaglebone-cross-compile/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/manabu/posts/beaglebone-cross-compile/</guid>
+      <description>Cross compiling a C++ project for Beaglebone I am thinking of getting into Embedded Linux, so I have ordered a Beaglebone. I don&amp;rsquo;t want to use Python to program it as I want to do some real-time processing with it. For that, I have to figure out how to compile C++ programs on the host PC instead of doing it on the Beaglebone as it has very little ram.
+Initially, I wanted to do the cross-compilation using QEMU but quickly gave up the idea as there is no out-of-the-box QEMU system for Beaglebone.</description>
+    </item>
+    
+  </channel>
+</rss>

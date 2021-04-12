@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://parzival2.github.io/manabu/tags/beaglebone/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/cmake/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/posts/beaglebone-cross-compile/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/cross-compile/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/tags/libgpiod/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/manabu/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/manabu/posts/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parzival2.github.io/manabu/posts/beaglebone-internet/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/manabu/tags/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/manabu/posts/beaglebone-internet/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/manabu/tags/bluepill/</loc>
@@ -36,9 +51,6 @@
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/manabu/posts/add-images-hugo/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parzival2.github.io/manabu/tags/c&#43;&#43;/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/manabu/tags/qtcreator/</loc>
