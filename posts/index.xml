@@ -5,7 +5,16 @@
     <link>https://parzival2.github.io/blog/posts/</link>
     <description>Recent content in Posts on blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-compiler using crosstool-ng for Beaglebone</title>
+      <link>https://parzival2.github.io/blog/posts/crosstool-ng-beaglebone/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/blog/posts/crosstool-ng-beaglebone/</guid>
+      <description>Cross-compiler using crosstool-ng for Beaglebone In the previous post, I have used an already available cross-compiling compiler to cross-compile a C++ project for Beaglebone. I want to learn how I can do that so that I can utilize the learned knowledge if the need arises. I came to know that we can build a compiler using a tool called crosstool-ng. I am going to use it to build a compiler that can be used to cross-compile C and C++ applications for Beaglebone.</description>
+    </item>
+    
     <item>
       <title>Cross compile C&#43;&#43; project for beaglebone</title>
       <link>https://parzival2.github.io/blog/posts/beaglebone-cross-compile/</link>

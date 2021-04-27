@@ -3,10 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://parzival2.github.io/blog/tags/beaglebone/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/blog/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/blog/posts/crosstool-ng-beaglebone/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/blog/tags/crosstool-ng/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/blog/posts/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://parzival2.github.io/blog/tags/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/blog/tags/c&#43;&#43;/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
@@ -21,12 +33,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/blog/tags/libgpiod/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parzival2.github.io/blog/posts/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://parzival2.github.io/blog/tags/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://parzival2.github.io/blog/posts/beaglebone-internet/</loc>

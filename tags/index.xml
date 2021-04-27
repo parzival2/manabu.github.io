@@ -5,13 +5,22 @@
     <link>https://parzival2.github.io/blog/tags/</link>
     <description>Recent content in Tags on blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parzival2.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beaglebone</title>
       <link>https://parzival2.github.io/blog/tags/beaglebone/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://parzival2.github.io/blog/tags/beaglebone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crosstool-ng</title>
+      <link>https://parzival2.github.io/blog/tags/crosstool-ng/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parzival2.github.io/blog/tags/crosstool-ng/</guid>
       <description></description>
     </item>
     
